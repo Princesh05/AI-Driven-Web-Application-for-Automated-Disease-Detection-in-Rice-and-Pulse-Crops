@@ -1,0 +1,9 @@
+streamlit==1.44.1
+tensorflow==2.21.0
+protobuf==6.31.1
+flatbuffers>=25.9.23
+numpy
+Pillow
+python-dotenv
+fpdf
+google-generativeai
